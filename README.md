@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **Flask Restfull** -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Social :</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/abhishek-powar/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -15,7 +15,7 @@
             alt="abhishekpowar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -35,7 +35,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
 </p> -->
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks :</h3>
 <p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
@@ -50,7 +50,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
 </p>
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases :</h3>
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -66,7 +66,7 @@
             alt="mongodb" width="40" height="40" /> </a>
 
 </p>
-<h3 align="left">Software and Tools:</h3>
+<h3 align="left">Software and Tools :</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -87,7 +87,7 @@
             alt="redis" width="40" height="40" /> </a>
 
 </p>
-<h3 align="left">Familiar With:</h3>
+<h3 align="left">Familiar With :</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -105,7 +105,7 @@
     </a>
 </p>
 
-
+<h3 > Github Stats : </h3>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekPowar&show_icons=true&locale=en&layout=compact&hide=TSQL"
