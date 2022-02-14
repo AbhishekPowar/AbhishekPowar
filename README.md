@@ -105,12 +105,9 @@
     </a>
 </p>
 
-<br>
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekPowar&show_icons=true&locale=en&layout=compact&hide=TSQL"
         alt="AbhishekPowar" /></p>
-
-<!-- <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=AbhishekPowar&show_icons=true&locale=en"
-        alt="AbhishekPowar" /></p> -->
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AbhishekPowar&show_icons=true alt=AbhishekPowar /> </p>
