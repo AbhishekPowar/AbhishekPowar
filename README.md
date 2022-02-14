@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [redis_clone](https://github.com/AbhishekPowar/redis_clone)
 
-- 🌱 I’m currently learning **Flask Restfull**
+<!-- - 🌱 I’m currently learning **Flask Restfull** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
