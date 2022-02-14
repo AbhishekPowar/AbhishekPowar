@@ -108,5 +108,5 @@
 <h3 align="left"> Github Stats : </h3>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekPowar&show_icons=true&locale=en&layout=compact&hide=TSQL"
-        alt="AbhishekPowar" /></p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AbhishekPowar&show_icons=true alt=AbhishekPowar /> </p>
+        alt="AbhishekPowar" width="45%" /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AbhishekPowar&show_icons=true alt=AbhishekPowar width="45%"/> </p>
